@@ -1,0 +1,7 @@
+{
+  "testuser": {
+    "password": "1234",
+    "active": true,
+    "logged_in": false
+  }
+}
