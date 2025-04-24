@@ -3,15 +3,23 @@
     "username": "tjsdn6184",
     "password": "0828",
     "role": "admin"
+<<<<<<< HEAD
   },
+=======
+- }
++ },
+>>>>>>> e9f0180d63b9f5ad1c5a05fe5e98a60ffd3830cf
   {
     "username": "park3894",
     "password": "kim0728",
     "role": "USER"
+<<<<<<< HEAD
   },
   {
     "username": "hsb0000",
     "password": "hsb0000",
     "role": "USER"
+=======
+>>>>>>> e9f0180d63b9f5ad1c5a05fe5e98a60ffd3830cf
   }
 ]
