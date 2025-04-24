@@ -3,8 +3,9 @@
     "username": "tjsdn6184",
     "password": "0828",
     "role": "admin"
-  }
- {
+- }
++ },
+  {
     "username": "park3894",
     "password": "kim0728",
     "role": "USER"
