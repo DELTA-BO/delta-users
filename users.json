@@ -18,5 +18,10 @@
     "username": "delta",
     "password": "anfeo!",
     "role": "admin"
+  },
+  {
+    "username": "jongyulyu",
+    "password": "0lJkQ0JrtEJgOL6",
+    "role": "user"
   }
 ]
